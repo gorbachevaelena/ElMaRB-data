@@ -22,7 +22,7 @@ The data covers socioeconomic characterisics of Russian regions, as well as vari
 | Variable Name | Variable Label and Variable Description | Scale and timeframe of coverage | Source|
 | --- | --- |--- |--- |
 | fad_id | ID of the federal administrative district |Numeric |
-| cec_id | ID of region | numeric | [Central Electoral Commission](url) |
+| cec_id | ID of region | Numeric | [Central Electoral Commission](url) |
 | id | Number of Federal district and ID of the region | Numeric | [Central Electoral Commission](url) |
 | r_name | Name of a region in English | Text | [Wikipedia/Road signs romanization of Russian](url) |
 | r_translit | Name of a region in Russian | Text | [Wikipedia](url) | 
