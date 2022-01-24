@@ -11,13 +11,14 @@
 *[Electoral Malpractice, Cyber-security, and Political Consequences in Russia and Beyond Project](url) is funded by the University of Helsinki and is based in Aleksanteri Institute, Helsinki, Finland*
 
 ### Project team:
-1. Margarita Zavadskaya, Project Leader, Postdoctoral Researcher
-2. Elena Gorbacheva, Project Planner, Doctoral Student
-3. Valeria Caras, Research assistant
+1. Valeria Caras, Research assistant
+2. Margarita Zavadskaya, Project Leader, Postdoctoral Researcher
+3. Elena Gorbacheva, Project Planner, Doctoral Student
+
 
 #### About the dataset
 
-The data covers socioeconomic characterisics of Russian regions, as well as variables on TV and Internet coverage in the each subject of the Russian Federation. The dataset contributes with the new variables on electoral coverage during both Presidentional and State Duma electoral campaigns which capture the amount of messages on elections in Russian regional media sources and amount of messages on electoral fraud. Data covers the 2007, 2011, 2016, 2021 State Duma elections and 2008, 2012, 2018 Presidential elections. 
+The data covers socioeconomic characteristics of Russian regions, as well as variables on TV and Internet coverage in each subject of the Russian Federation. The dataset contributes with the new variables on electoral coverage during both Presidential and State Duma electoral campaigns which capture the number of messages on elections in Russian regional media sources and the number of messages on electoral fraud. Data covers the 2007, 2011, 2016, 2021 State Duma elections and 2008, 2012, 2018 Presidential elections.
 
 | Variable Name | Variable Label and Variable Description | Scale and timeframe of coverage | Source|
 | --- | --- |--- |--- |
