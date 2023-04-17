@@ -8,7 +8,8 @@
 
 [![DOI](https://zenodo.org/badge/427669912.svg)](https://zenodo.org/badge/latestdoi/427669912) 
 
-*[Electoral Malpractice, Cyber-security, and Political Consequences in Russia and Beyond Project](url) is funded by the University of Helsinki and is based in Aleksanteri Institute, Helsinki, Finland*
+
+*[Electoral Malpractice, Cyber-security, and Political Consequences in Russia and Beyond Project](https://blogs.helsinki.fi/elmarb-project/) is funded by the University of Helsinki and is based in Aleksanteri Institute, Helsinki, Finland*
 
 ### Project team:
 1. Margarita Zavadskaya, Project Leader, Postdoctoral Researcher
