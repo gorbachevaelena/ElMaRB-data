@@ -20,3 +20,6 @@
 #### About the dataset
 
 The dataset covers numerous political and socioeconomic characteristics of various countries with varied states of democratic development. The data assists with the research on electoral malpractices that may have influenced national legislative or executive elections in a certain country at a certain time by providing a comprehensive picture of the political and socioeconomic environment in which the elections were held. Mainly based on the data from V-Dem and Factiva’s platform, the ElMaRB’s dataset includes other relevant sources from World Bank, NELDA, Transparency International, and the like to cover national elections in the selected countries from 1999 till 2021, and later upon data availability. 
+
+To access the dataset open Database_crossnational_042023.xlsx
+To explore the variables used for the dataset open Variables_crossnational.xlsx
